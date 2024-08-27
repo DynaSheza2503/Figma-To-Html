@@ -1,0 +1,282 @@
+.cta .bg {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.cta .heading {
+  position: absolute;
+  left: 442.6px;
+  top: 228px;
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 800;
+  font-size: 60px;
+  letter-spacing: -1.2px;
+  line-height: 1.531;
+  color: #FFFFFF;
+}
+.cta .heading-1 {
+  border: 1px solid #FFFFFF;
+  position: absolute;
+  left: 501.2px;
+  top: 322px;
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 800;
+  font-size: 100px;
+  letter-spacing: -2px;
+  line-height: 0.919;
+  text-transform: uppercase;
+  background: linear-gradient(180deg, #FFFFFF 57.23%, #45A0A4 96.1%);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.cta .supporting-text {
+  position: absolute;
+  left: 290.4px;
+  top: 453px;
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 0.696;
+  color: var(--gray-200, #EAECF0);
+}
+.cta .supporting-text-1 {
+  position: absolute;
+  left: 210.8px;
+  top: 513px;
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 0.696;
+  color: var(--gray-200, #EAECF0);
+}
+.cta .supporting-text-2 {
+  margin: 0 77.5px 82px 77.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 500;
+  font-size: 34px;
+  line-height: 0.901;
+  color: var(--gray-200, #EAECF0);
+}
+.cta .supporting-text-3 {
+  margin-right: 15.5px;
+  width: 278px;
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 0.696;
+  color: var(--gray-200, #EAECF0);
+}
+.cta .supporting-text-4 {
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 0.696;
+  color: var(--gray-200, #EAECF0);
+}
+.cta .container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 993.4px;
+  box-sizing: border-box;
+}
+.cta .group-1000001924 {
+  position: absolute;
+  left: 332.2px;
+  bottom: 1208px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.cta .supporting-text-5 {
+  position: absolute;
+  left: 255.7px;
+  top: 657px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 500;
+  font-size: 34px;
+  line-height: 1.471;
+  color: var(--gray-200, #EAECF0);
+}
+.cta .outline-no-shadow {
+  width: 68.8px;
+  height: 67.1px;
+}
+.cta .xd {
+  margin: 0.1px 15px 0 0;
+  display: flex;
+  width: 68.8px;
+  height: 67.1px;
+  box-sizing: border-box;
+}
+.cta .figma {
+  margin: 0.1px 9.9px 0px 0;
+  width: 68.8px;
+  height: 67.1px;
+}
+.cta .logo {
+  position: absolute;
+  left: 66.9px;
+  top: 10.7px;
+  width: 44.4px;
+  height: 28.1px;
+}
+.cta .layer-11 {
+  position: relative;
+  margin-right: 11.1px;
+  width: 34.4px;
+  height: 51.6px;
+}
+.cta .supporting-text-6 {
+  position: relative;
+  margin: 10px 0 20.6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 800;
+  font-size: 17.4px;
+  line-height: 0.426;
+  color: #000000;
+}
+.cta .figma-1 {
+  border-radius: 11.2px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 0.2px;
+  display: flex;
+  flex-direction: row;
+  padding: 9.5px 0 5.8px 18.4px;
+  width: 191.6px;
+  box-sizing: border-box;
+}
+.cta .platforms {
+  position: absolute;
+  left: 50%;
+  top: 142px;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.cta .supporting-text-7 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 500;
+  font-size: 34px;
+  line-height: 1.471;
+  color: var(--gray-200, #EAECF0);
+}
+.cta .frame-1000001925 {
+  border-radius: 30px;
+  background: #1E1F3D content-box, linear-gradient(180deg, #3C3C83, rgba(28, 29, 58, 0)) border-box;
+  border: 1px solid transparent;
+  position: absolute;
+  left: 208px;
+  top: 839px;
+  display: flex;
+  padding-left: 7px;
+  width: 337px;
+  height: 196px;
+  box-sizing: border-box;
+}
+.cta .supporting-text-8 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 500;
+  font-size: 34px;
+  line-height: 1.471;
+  color: var(--gray-200, #EAECF0);
+}
+.cta .frame-1000001926 {
+  border-radius: 30px;
+  background: #1E1F3D content-box, linear-gradient(180deg, #3C3C83, rgba(28, 29, 58, 0)) border-box;
+  border: 1px solid transparent;
+  position: absolute;
+  left: 625px;
+  top: 839px;
+  display: flex;
+  padding-left: 7px;
+  width: 337px;
+  height: 196px;
+  box-sizing: border-box;
+}
+.cta .supporting-text-9 {
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 500;
+  font-size: 34px;
+  line-height: 1.471;
+  color: var(--gray-200, #EAECF0);
+}
+.cta .frame-1000001928 {
+  border-radius: 30px;
+  background: #1E1F3D content-box, linear-gradient(180deg, #3C3C83, rgba(28, 29, 58, 0)) border-box;
+  border: 1px solid transparent;
+  position: absolute;
+  left: 332px;
+  top: 1108px;
+  display: flex;
+  padding: 72px 15px 72px 0;
+  width: 923px;
+  box-sizing: border-box;
+}
+.cta .supporting-text-10 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 500;
+  font-size: 34px;
+  line-height: 1.471;
+  color: var(--gray-200, #EAECF0);
+}
+.cta .frame-1000001927 {
+  border-radius: 30px;
+  background: #1E1F3D content-box, linear-gradient(180deg, #3C3C83, rgba(28, 29, 58, 0)) border-box;
+  border: 1px solid transparent;
+  position: absolute;
+  top: 839px;
+  right: 848px;
+  display: flex;
+  padding-left: 7px;
+  width: 337px;
+  height: 196px;
+  box-sizing: border-box;
+}
+.cta .heading-2 {
+  border: 1px solid #FFFFFF;
+  position: absolute;
+  left: 488.2px;
+  bottom: 1043px;
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 800;
+  font-size: 100px;
+  letter-spacing: -2px;
+  line-height: 0.919;
+  text-transform: uppercase;
+  background: linear-gradient(180deg, #FFFFFF 57.23%, #45A0A4 96.1%);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.cta {
+  background: #181935;
+  width: 2212px;
+}
